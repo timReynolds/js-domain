@@ -1,8 +1,8 @@
 JS DDD Classes
 =========================
 
-[![Build Status](https://travis-ci.org/timReynolds/typescript-npm-package-starter.svg?branch=master)](https://travis-ci.org/timReynolds/typescript-npm-package-starter)
-[![Coverage Status](https://coveralls.io/repos/github/timReynolds/typescript-npm-package-starter/badge.svg?branch=master)](https://coveralls.io/github/timReynolds/typescript-npm-package-starter?branch=master)
+[![Build Status](https://travis-ci.org/timReynolds/js-domain.svg?branch=master)](https://travis-ci.org/timReynolds/js-domain)
+[![Coverage Status](https://coveralls.io/repos/github/timReynolds/js-domain/badge.svg?branch=master)](https://coveralls.io/github/timReynolds/js-domain?branch=master)
 
 A set of base classes used to implement [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) style [domain model](https://martinfowler.com/eaaCatalog/domainModel.html) pattern in JavaScript.
 
