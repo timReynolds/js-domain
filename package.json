@@ -1,5 +1,5 @@
 {
-  "name": "@reynolds/domain",
+  "name": "@timreynolds/domain",
   "version": "1.0.0",
   "description": "Base classes and ts declarations for using the domain model pattern with DDD in js",
   "main": "dist",
