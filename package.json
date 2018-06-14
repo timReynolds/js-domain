@@ -27,7 +27,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "23.1.0",
-    "@types/node": "8.10.19",
+    "@types/node": "8.10.20",
     "@types/uuid": "3.4.3",
     "coveralls": "3.0.1",
     "husky": "0.14.3",
