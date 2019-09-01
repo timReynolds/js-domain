@@ -30,7 +30,7 @@
     "@types/node": "12.7.3",
     "@types/uuid": "3.4.5",
     "coveralls": "3.0.6",
-    "husky": "3.0.4",
+    "husky": "3.0.5",
     "jest": "23.6.0",
     "lint-staged": "9.2.5",
     "prettier": "1.18.2",
