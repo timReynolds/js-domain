@@ -32,7 +32,7 @@
     "coveralls": "3.1.0",
     "husky": "4.3.0",
     "jest": "23.6.0",
-    "lint-staged": "10.3.0",
+    "lint-staged": "10.4.0",
     "prettier": "2.1.2",
     "rimraf": "3.0.2",
     "ts-jest": "23.10.5",
